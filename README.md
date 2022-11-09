@@ -2,7 +2,7 @@
 
 - **Deoj Balcanao**
 
-- **CPNT 201 Achievements Round 2 NPM**
+- **CPNT 201 Achievements Round 2 - NPM**
 
 ## Process
 1. **First I created a directory named myapp**
